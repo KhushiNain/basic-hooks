@@ -1,0 +1,13 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.style{
+  text-align: center;
+  width: 90vw;
+}
+.toggle{
+  background-color: beige;
+  margin-left: 46.5%;
+}
